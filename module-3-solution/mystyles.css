@@ -28,4 +28,8 @@
 #buttons:hover{
 	background-color: blue;
 }
+@media (min-width:767px) {
+    .nav-link {
+    	display:none;
+    }
 }
